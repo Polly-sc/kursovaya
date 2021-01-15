@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5a414ec-f8a6-4c0c-a366-d7d8d6f5237c" name="Default Changelist" comment="" />
+    <list default="true" id="f5a414ec-f8a6-4c0c-a366-d7d8d6f5237c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1n0UkQuYJBf37ydlkiwMdFRNP64" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -217,6 +224,7 @@
       <workItem from="1610717371717" duration="1261000" />
       <workItem from="1610719294870" duration="416000" />
       <workItem from="1610719982704" duration="785000" />
+      <workItem from="1610732651619" duration="772000" />
     </task>
     <servers />
   </component>
@@ -224,10 +232,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="428" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610572511435">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="428" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610734339881">
+      <screen x="0" y="25" width="1440" height="814" />
     </state>
     <state x="428" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1610572511435" />
+    <state x="428" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.814@0.25.1440.814" timestamp="1610734339881" />
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610706385697">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -268,11 +277,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1610663927591" />
-    <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1610732651964">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1610734407589">
+      <screen x="0" y="25" width="1440" height="814" />
     </state>
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1610732651964" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.25.1440.813@0.25.1440.813" timestamp="1610670498147" />
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.25.1440.814@0.25.1440.814" timestamp="1610734407589" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestWebProg$favoritesPageTests.coverage" NAME="favoritesPageTests Coverage Results" MODIFIED="1610628431293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FavoritesPageTests" />
